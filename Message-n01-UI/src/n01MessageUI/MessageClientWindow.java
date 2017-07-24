@@ -156,10 +156,6 @@ public class MessageClientWindow extends ApplicationWindow {
 		return statusLineManager;
 	}
 	
-	/**
-	 * Launch the application.
-	 * @param args
-	 */
 	public static void main(String args[]) {
 		try {
 			MessageClientWindow window = new MessageClientWindow();
